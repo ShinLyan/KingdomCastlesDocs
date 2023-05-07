@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['background_0',['background',['../class_flask.html#aad01256094e41c38251f0e00c1631141',1,'Flask']]],
+  ['backshard_1',['backShard',['../class_hand_shard.html#a15634d7d2f3382a9fb32b7384a3cb7e2',1,'HandShard']]],
+  ['basesolutiontime_2',['baseSolutionTime',['../class_three_in_row.html#a27838ecf0f5de1ee2075eb0774ca59d3',1,'ThreeInRow']]],
+  ['bgimage_3',['bgImage',['../class_game_controller.html#a945bc5755b53fe3d8588ab490a23b62e',1,'GameController']]],
+  ['blackbackground_4',['blackBackground',['../class_tutorial.html#a6040a461d8056b729323e87e0c8706dc',1,'Tutorial']]],
+  ['blackbackgroundgamefield_5',['blackBackgroundGameField',['../class_tutorial.html#ad9ad0ab07dcefb3da4f02e91e7b16a3b',1,'Tutorial']]],
+  ['blackbg_6',['blackBg',['../class_mini_game.html#a4393e7d59a41a3cc15566b8c29eba829',1,'MiniGame']]],
+  ['blue_7',['Blue',['../class_crystal_altar_animation.html#ab3135af7aaa7bae99bd66d9510c55c20a9594eec95be70e7b1710f730fdda33d9',1,'CrystalAltarAnimation']]],
+  ['boardimage_8',['boardImage',['../class_technology.html#a949c5a04c1497af9cc4a39eb2506c579',1,'Technology']]],
+  ['book_9',['Book',['../class_crystal_altar_animation.html#aa2cc7d6287d09fa1b320646f80649e45a2b1f94ef23b79bf90eb891cae1df7a90',1,'CrystalAltarAnimation']]],
+  ['breakelems_10',['BreakElems',['../class_three_in_row.html#a7a909089a73caef805d61d4bd9785b23',1,'ThreeInRow']]],
+  ['brokenelemstowin_11',['brokenElemsToWin',['../class_three_in_row.html#a2ef4e019ce8a19de963bb111930f5e15',1,'ThreeInRow']]],
+  ['btn_12',['btn',['../class_add_buttons.html#a71071adc00aa367dd6c371daf53c5044',1,'AddButtons']]],
+  ['btncount_13',['btnCount',['../class_add_buttons.html#a6d1eadb1218f12e9484d8997071bd945',1,'AddButtons']]],
+  ['btns_14',['btns',['../class_game_controller.html#a109a3263edb9dad69ca5929c5a1741c6',1,'GameController']]],
+  ['buildpieces_15',['BuildPieces',['../class_mystical_canvas.html#a44d6396869a6e90c36d47aa3de460821',1,'MysticalCanvas']]],
+  ['button_16',['button',['../class_colb_container.html#a35f6491cde359ada10d6a47343658f4d',1,'ColbContainer']]],
+  ['buttonlobbypref_17',['buttonLobbyPref',['../class_lobby_manager.html#a1facac466d2fbd955720d5fa0215720f',1,'LobbyManager']]]
+];

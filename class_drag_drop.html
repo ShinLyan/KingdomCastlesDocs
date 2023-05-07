@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.6"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Kingdom&amp;Castles: Класс DragDrop</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen-awesome-sidebar-only.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectlogo"><img alt="Logo" src="K&C_logo.png"/></td>
+  <td id="projectalign">
+   <div id="projectname">Kingdom&amp;Castles<span id="projectnumber">&#160;1.0.4</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.9.6 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search/",'.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(document).ready(function(){initNavTree('class_drag_drop.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<div id="MSearchResults">
+<div class="SRPage">
+<div id="SRIndex">
+<div id="SRResults"></div>
+<div class="SRStatus" id="Loading">Загрузка...</div>
+<div class="SRStatus" id="Searching">Поиск...</div>
+<div class="SRStatus" id="NoMatches">Не найдено</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Открытые члены</a> &#124;
+<a href="#pub-attribs">Открытые атрибуты</a> &#124;
+<a href="#properties">Свойства</a> &#124;
+<a href="#pri-methods">Закрытые члены</a> &#124;
+<a href="#pri-attribs">Закрытые данные</a> &#124;
+<a href="class_drag_drop-members.html">Полный список членов класса</a>  </div>
+  <div class="headertitle"><div class="title">Класс DragDrop</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>Этот класс отвечает за перемещение, вращение и блокировку игровых объектов в игре Drag &amp; Drop.  
+ <a href="class_drag_drop.html#details">Подробнее...</a></p>
+<div class="dynheader">
+Граф наследования:DragDrop:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="class_drag_drop.png" alt=""/>
+ </div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Открытые члены</h2></td></tr>
+<tr class="memitem:a880ec55ee551009b172ebee29268c102"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_drag_drop.html#a880ec55ee551009b172ebee29268c102">IsOrientedRight</a> ()</td></tr>
+<tr class="memdesc:a880ec55ee551009b172ebee29268c102"><td class="mdescLeft">&#160;</td><td class="mdescRight">Правильная ориентация объекта.  <br /></td></tr>
+<tr class="separator:a880ec55ee551009b172ebee29268c102"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c24e79ebe64620d1868ec693b3d9ef8"><td class="memItemLeft" align="right" valign="top"><a id="a8c24e79ebe64620d1868ec693b3d9ef8" name="a8c24e79ebe64620d1868ec693b3d9ef8"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnBeginDrag</b> (PointerEventData eventData)</td></tr>
+<tr class="memdesc:a8c24e79ebe64620d1868ec693b3d9ef8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Вызывается при начале перетаскивания элемента. <br /></td></tr>
+<tr class="separator:a8c24e79ebe64620d1868ec693b3d9ef8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52b3dcbdfd7de54835d0980c0f8f20ff"><td class="memItemLeft" align="right" valign="top"><a id="a52b3dcbdfd7de54835d0980c0f8f20ff" name="a52b3dcbdfd7de54835d0980c0f8f20ff"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEndDrag</b> (PointerEventData eventData)</td></tr>
+<tr class="memdesc:a52b3dcbdfd7de54835d0980c0f8f20ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Вызывается при окончании перетаскивания объекта. <br /></td></tr>
+<tr class="separator:a52b3dcbdfd7de54835d0980c0f8f20ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc358b536e86c04976357480d0dceb99"><td class="memItemLeft" align="right" valign="top"><a id="adc358b536e86c04976357480d0dceb99" name="adc358b536e86c04976357480d0dceb99"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnDrag</b> (PointerEventData eventData)</td></tr>
+<tr class="memdesc:adc358b536e86c04976357480d0dceb99"><td class="mdescLeft">&#160;</td><td class="mdescRight">Вызывается в процессе перетаскивания объекта. <br /></td></tr>
+<tr class="separator:adc358b536e86c04976357480d0dceb99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9458587cb041239270df1725ca75bdde"><td class="memItemLeft" align="right" valign="top"><a id="a9458587cb041239270df1725ca75bdde" name="a9458587cb041239270df1725ca75bdde"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnPointerDown</b> (PointerEventData eventData)</td></tr>
+<tr class="memdesc:a9458587cb041239270df1725ca75bdde"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция необходимая для обработки нажатий. <br /></td></tr>
+<tr class="separator:a9458587cb041239270df1725ca75bdde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af850834ba5aa619c396d6aa087dfebb8"><td class="memItemLeft" align="right" valign="top"><a id="af850834ba5aa619c396d6aa087dfebb8" name="af850834ba5aa619c396d6aa087dfebb8"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnPointerUp</b> (PointerEventData eventData)</td></tr>
+<tr class="memdesc:af850834ba5aa619c396d6aa087dfebb8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Вызывается при окончании нажатия на элемент. <br /></td></tr>
+<tr class="separator:af850834ba5aa619c396d6aa087dfebb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55c7e64a9718701b61e5983e1c151674"><td class="memItemLeft" align="right" valign="top">IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_drag_drop.html#a55c7e64a9718701b61e5983e1c151674">FadeColor</a> (float duration, GameObject obj, float desiredAlpha)</td></tr>
+<tr class="memdesc:a55c7e64a9718701b61e5983e1c151674"><td class="mdescLeft">&#160;</td><td class="mdescRight">Корутина "проявления" объекта привязки и "исчезновения" перетаскиваемого элемента.  <br /></td></tr>
+<tr class="separator:a55c7e64a9718701b61e5983e1c151674"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acce13f4d80cf6c28e78232431a52c17f"><td class="memItemLeft" align="right" valign="top">IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_drag_drop.html#acce13f4d80cf6c28e78232431a52c17f">WrongPositionResponse</a> (float duration, Vector3 targetPosition)</td></tr>
+<tr class="memdesc:acce13f4d80cf6c28e78232431a52c17f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Корутина перемещения элемента.  <br /></td></tr>
+<tr class="separator:acce13f4d80cf6c28e78232431a52c17f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Открытые атрибуты</h2></td></tr>
+<tr class="memitem:aa1cf7c2047b73279eab1df98cf0a1172"><td class="memItemLeft" align="right" valign="top"><a id="aa1cf7c2047b73279eab1df98cf0a1172" name="aa1cf7c2047b73279eab1df98cf0a1172"></a>
+<a class="el" href="class_piece_slot.html">PieceSlot</a>[]&#160;</td><td class="memItemRight" valign="bottom"><b>allSnaps</b></td></tr>
+<tr class="memdesc:aa1cf7c2047b73279eab1df98cf0a1172"><td class="mdescLeft">&#160;</td><td class="mdescRight">Массив всех объектов привязки. <br /></td></tr>
+<tr class="separator:aa1cf7c2047b73279eab1df98cf0a1172"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c57f940f90b884b73042a3c0b495624"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_drag_drop.html#a9c57f940f90b884b73042a3c0b495624">initialPosition</a></td></tr>
+<tr class="memdesc:a9c57f940f90b884b73042a3c0b495624"><td class="mdescLeft">&#160;</td><td class="mdescRight">Начальная позиция элемента.  <br /></td></tr>
+<tr class="separator:a9c57f940f90b884b73042a3c0b495624"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+Свойства</h2></td></tr>
+<tr class="memitem:a6f1908e36030981277a5971ba15315f0"><td class="memItemLeft" align="right" valign="top"><a id="a6f1908e36030981277a5971ba15315f0" name="a6f1908e36030981277a5971ba15315f0"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>Id</b><code> [get, private set]</code></td></tr>
+<tr class="memdesc:a6f1908e36030981277a5971ba15315f0"><td class="mdescLeft">&#160;</td><td class="mdescRight">свойство Id перетаскиваемого объекта. <br /></td></tr>
+<tr class="separator:a6f1908e36030981277a5971ba15315f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad441eb1da9a964782b08aab54ecee88a"><td class="memItemLeft" align="right" valign="top"><a id="ad441eb1da9a964782b08aab54ecee88a" name="ad441eb1da9a964782b08aab54ecee88a"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsDragged</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:ad441eb1da9a964782b08aab54ecee88a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Флаг перетаскивания элемента. <br /></td></tr>
+<tr class="separator:ad441eb1da9a964782b08aab54ecee88a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e6a29d9779ab981c37d5ce21bc3ffb8"><td class="memItemLeft" align="right" valign="top"><a id="a1e6a29d9779ab981c37d5ce21bc3ffb8" name="a1e6a29d9779ab981c37d5ce21bc3ffb8"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>CanRotate</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a1e6a29d9779ab981c37d5ce21bc3ffb8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Флаг возмжности вращения. <br /></td></tr>
+<tr class="separator:a1e6a29d9779ab981c37d5ce21bc3ffb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ce081fc2893c263a045222f656faec6"><td class="memItemLeft" align="right" valign="top"><a id="a2ce081fc2893c263a045222f656faec6" name="a2ce081fc2893c263a045222f656faec6"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsLocked</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a2ce081fc2893c263a045222f656faec6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Флаг фиксации объекта. <br /></td></tr>
+<tr class="separator:a2ce081fc2893c263a045222f656faec6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Закрытые члены</h2></td></tr>
+<tr class="memitem:a3df33cc6f5dc96738d217965969cf197"><td class="memItemLeft" align="right" valign="top"><a id="a3df33cc6f5dc96738d217965969cf197" name="a3df33cc6f5dc96738d217965969cf197"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>Start</b> ()</td></tr>
+<tr class="memdesc:a3df33cc6f5dc96738d217965969cf197"><td class="mdescLeft">&#160;</td><td class="mdescRight">При старте подписываемся на делегат таймера окончания времени. Инициализируем соответствующий объект привязки. Инициализируем начальное положение элемента. <br /></td></tr>
+<tr class="separator:a3df33cc6f5dc96738d217965969cf197"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02d65132b1529fe2efcef300e2b6f67f"><td class="memItemLeft" align="right" valign="top"><a id="a02d65132b1529fe2efcef300e2b6f67f" name="a02d65132b1529fe2efcef300e2b6f67f"></a>
+IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><b>InitialisePositions</b> ()</td></tr>
+<tr class="memdesc:a02d65132b1529fe2efcef300e2b6f67f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Корутина инициализации позиций. <br /></td></tr>
+<tr class="separator:a02d65132b1529fe2efcef300e2b6f67f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03a635515b14afff2f428318d376b9f0"><td class="memItemLeft" align="right" valign="top"><a id="a03a635515b14afff2f428318d376b9f0" name="a03a635515b14afff2f428318d376b9f0"></a>
+IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><b>Rotate</b> (float duration, Vector3 degreesByAngle)</td></tr>
+<tr class="memdesc:a03a635515b14afff2f428318d376b9f0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Корутина поворота элемента. <br /></td></tr>
+<tr class="separator:a03a635515b14afff2f428318d376b9f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Закрытые данные</h2></td></tr>
+<tr class="memitem:aa6bb6c6220cc8c1d884f7cf532ef33cb"><td class="memItemLeft" align="right" valign="top"><a id="aa6bb6c6220cc8c1d884f7cf532ef33cb" name="aa6bb6c6220cc8c1d884f7cf532ef33cb"></a>
+Canvas&#160;</td><td class="memItemRight" valign="bottom"><b>canvas</b></td></tr>
+<tr class="memdesc:aa6bb6c6220cc8c1d884f7cf532ef33cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Канва с элементами UI. <br /></td></tr>
+<tr class="separator:aa6bb6c6220cc8c1d884f7cf532ef33cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7770ef03d938ecf836c54bddb2e76a83"><td class="memItemLeft" align="right" valign="top"><a id="a7770ef03d938ecf836c54bddb2e76a83" name="a7770ef03d938ecf836c54bddb2e76a83"></a>
+<a class="el" href="class_drag_drop_manager.html">DragDropManager</a>&#160;</td><td class="memItemRight" valign="bottom"><b>dragDropManager</b></td></tr>
+<tr class="memdesc:a7770ef03d938ecf836c54bddb2e76a83"><td class="mdescLeft">&#160;</td><td class="mdescRight">Объект <a class="el" href="class_drag_drop_manager.html" title="Менеджер перетаскиваемых элементов.">DragDropManager</a>. <br /></td></tr>
+<tr class="separator:a7770ef03d938ecf836c54bddb2e76a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad82f54a2d0811278b90e072bae27055e"><td class="memItemLeft" align="right" valign="top"><a id="ad82f54a2d0811278b90e072bae27055e" name="ad82f54a2d0811278b90e072bae27055e"></a>
+Transform&#160;</td><td class="memItemRight" valign="bottom"><b>correspondingSnap</b></td></tr>
+<tr class="memdesc:ad82f54a2d0811278b90e072bae27055e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Соответствующая позиция привязки элемента. <br /></td></tr>
+<tr class="separator:ad82f54a2d0811278b90e072bae27055e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab479f847e15db5d111cc0d6fd55dfab7"><td class="memItemLeft" align="right" valign="top"><a id="ab479f847e15db5d111cc0d6fd55dfab7" name="ab479f847e15db5d111cc0d6fd55dfab7"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>correspondingSnapIndex</b></td></tr>
+<tr class="memdesc:ab479f847e15db5d111cc0d6fd55dfab7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Соответствующий индекс объекта привязки. <br /></td></tr>
+<tr class="separator:ab479f847e15db5d111cc0d6fd55dfab7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a222908b9fda9283d058d0d0fbf997ef3"><td class="memItemLeft" align="right" valign="top"><a id="a222908b9fda9283d058d0d0fbf997ef3" name="a222908b9fda9283d058d0d0fbf997ef3"></a>
+readonly float&#160;</td><td class="memItemRight" valign="bottom"><b>pieceRotationTime</b> = 0.2f</td></tr>
+<tr class="memdesc:a222908b9fda9283d058d0d0fbf997ef3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Длительность вращения в секундах. <br /></td></tr>
+<tr class="separator:a222908b9fda9283d058d0d0fbf997ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accdfdf11f377bf26fd6167951ab16325"><td class="memItemLeft" align="right" valign="top"><a id="accdfdf11f377bf26fd6167951ab16325" name="accdfdf11f377bf26fd6167951ab16325"></a>
+CanvasGroup&#160;</td><td class="memItemRight" valign="bottom"><b>canvasGroup</b></td></tr>
+<tr class="memdesc:accdfdf11f377bf26fd6167951ab16325"><td class="mdescLeft">&#160;</td><td class="mdescRight">Канва, объединяющая набор UI элементов. <br /></td></tr>
+<tr class="separator:accdfdf11f377bf26fd6167951ab16325"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f575c58c0e54eccaa093245edb9d251"><td class="memItemLeft" align="right" valign="top"><a id="a4f575c58c0e54eccaa093245edb9d251" name="a4f575c58c0e54eccaa093245edb9d251"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>id</b></td></tr>
+<tr class="memdesc:a4f575c58c0e54eccaa093245edb9d251"><td class="mdescLeft">&#160;</td><td class="mdescRight">Уникальный id элемента. <br /></td></tr>
+<tr class="separator:a4f575c58c0e54eccaa093245edb9d251"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92959df2c67b457781d79661ad6942e4"><td class="memItemLeft" align="right" valign="top"><a id="a92959df2c67b457781d79661ad6942e4" name="a92959df2c67b457781d79661ad6942e4"></a>
+RectTransform&#160;</td><td class="memItemRight" valign="bottom"><b>rectTransform</b></td></tr>
+<tr class="memdesc:a92959df2c67b457781d79661ad6942e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Компонент RectTransform перетаскиваемого элемента. <br /></td></tr>
+<tr class="separator:a92959df2c67b457781d79661ad6942e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Подробное описание</h2>
+<div class="textblock"><p>Этот класс отвечает за перемещение, вращение и блокировку игровых объектов в игре Drag &amp; Drop. </p>
+<p><a class="el" href="class_drag_drop_manager.html" title="Менеджер перетаскиваемых элементов.">DragDropManager</a> - класс, который управляет всеми игровыми объектами <a class="el" href="class_drag_drop.html" title="Этот класс отвечает за перемещение, вращение и блокировку игровых объектов в игре Drag &amp; Drop.">DragDrop</a>, и он используется в этом классе для изменения состояния других <a class="el" href="class_drag_drop.html" title="Этот класс отвечает за перемещение, вращение и блокировку игровых объектов в игре Drag &amp; Drop.">DragDrop</a> объектов. <a class="el" href="class_piece_slot.html" title="Скрипт для слота, в который можно бросить фрагменты головоломки.">PieceSlot</a> - класс, который отвечает за корректное позиционирование игровых объектов. Он реализует интерфейсы IPointerDownHandler, IPointerUpHandler, IBeginDragHandler, IEndDragHandler, IDragHandler и содержит методы для поворота объектов, изменения цвета и позиции. </p>
+</div><h2 class="groupheader">Методы</h2>
+<a id="a55c7e64a9718701b61e5983e1c151674" name="a55c7e64a9718701b61e5983e1c151674"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55c7e64a9718701b61e5983e1c151674">&#9670;&#160;</a></span>FadeColor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">IEnumerator DragDrop.FadeColor </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>duration</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">GameObject&#160;</td>
+          <td class="paramname"><em>obj</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>desiredAlpha</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Корутина "проявления" объекта привязки и "исчезновения" перетаскиваемого элемента. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">duration</td><td>Длительность изменения альфа-канала в секундах. </td></tr>
+    <tr><td class="paramname">obj</td><td>Объект изменения альфа-канал. </td></tr>
+    <tr><td class="paramname">desiredAlpha</td><td>Желаемое значение альфа-канала в диапазоне [0;255]. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a880ec55ee551009b172ebee29268c102" name="a880ec55ee551009b172ebee29268c102"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a880ec55ee551009b172ebee29268c102">&#9670;&#160;</a></span>IsOrientedRight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool DragDrop.IsOrientedRight </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Правильная ориентация объекта. </p>
+<dl class="section return"><dt>Возвращает</dt><dd>Возвращает, правильно ли ориентирован объект. </dd></dl>
+
+</div>
+</div>
+<a id="acce13f4d80cf6c28e78232431a52c17f" name="acce13f4d80cf6c28e78232431a52c17f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acce13f4d80cf6c28e78232431a52c17f">&#9670;&#160;</a></span>WrongPositionResponse()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">IEnumerator DragDrop.WrongPositionResponse </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>duration</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Vector3&#160;</td>
+          <td class="paramname"><em>targetPosition</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Корутина перемещения элемента. </p>
+<p>Постепенно перемещает элемент в точку привязки или на исходную позицию, если был размещен неверно. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">duration</td><td>Длительность перемещения в секундах. </td></tr>
+    <tr><td class="paramname">targetPosition</td><td>Позиция, в которую нужно переместить элемент. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<h2 class="groupheader">Данные класса</h2>
+<a id="a9c57f940f90b884b73042a3c0b495624" name="a9c57f940f90b884b73042a3c0b495624"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c57f940f90b884b73042a3c0b495624">&#9670;&#160;</a></span>initialPosition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vector3 DragDrop.initialPosition</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Начальная позиция элемента. </p>
+<p>В эту позицию элемент будет возвращаться при некорректном расположении. </p>
+
+</div>
+</div>
+<hr/>Объявления и описания членов класса находятся в файле:<ul>
+<li>E:/Unity/Projects/K&amp;C_master/kingdomsandcastles/Assets/Scripts/SecondStage/MiniGames/ArchitecturalWork/DragDrop.cs</li>
+</ul>
+</div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="class_drag_drop.html">DragDrop</a></li>
+    <li class="footer">Создано системой <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
+  </ul>
+</div>
+</body>
+</html>

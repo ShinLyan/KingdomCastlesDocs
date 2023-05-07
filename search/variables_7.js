@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['game_0',['game',['../class_element.html#aefb443b1809f0e5f85c96d14c7ca15ae',1,'Element']]],
+  ['gamefield_1',['gameField',['../class_first_stage.html#a295ed2cdf47734f39dd25bb6fca1f2f5',1,'FirstStage.gameField()'],['../class_ethereal_flow.html#adad69a434844ed7a2b2f0cee85da95d4',1,'EtherealFlow.gameField()'],['../class_puzzle.html#ae0280136d0191a9531cc99b30d555f1f',1,'Puzzle.gameField()'],['../class_three_in_row.html#acf9e1c7be39d889183d11f54fd04a3d7',1,'ThreeInRow.gameField()'],['../class_tutorial.html#aa60e36daa2d748860e954266c32b9a4a',1,'Tutorial.gameField()']]],
+  ['gamefinished_2',['gameFinished',['../class_three_in_row.html#acaa1aae5a5b8cd8996abfbebd27e5248',1,'ThreeInRow']]],
+  ['gameguesses_3',['gameGuesses',['../class_game_controller.html#a810201df463b8f06c4d432c0a7957bd7',1,'GameController']]],
+  ['gameholder_4',['gameHolder',['../class_architectural_works.html#a7e2c64445228b68ef7aaa1f89be167f3',1,'ArchitecturalWorks']]],
+  ['gamelost_5',['gameLost',['../class_architectural_works.html#af0d51ecde9854822488b1f36a803d2f2',1,'ArchitecturalWorks']]],
+  ['gamemanager_6',['gameManager',['../class_piece_slot.html#a3b69a4db345c430ff8eca2835e847c14',1,'PieceSlot.gameManager()'],['../class_piece.html#aa159c0369f9ba494f723225eae6388b3',1,'Piece.gameManager()'],['../class_puzzle.html#adb3be3a8b6bc8b922eaeff68b2a714fb',1,'Puzzle.gameManager()']]],
+  ['gameobjects_7',['gameObjects',['../class_first_stage.html#a48a1d4dc5541c25a4e7cf07c71bd8611',1,'FirstStage']]],
+  ['gamepuzzles_8',['gamePuzzles',['../class_game_controller.html#a3c246d6856b26f671ebbccfbb7db3320',1,'GameController']]],
+  ['gemholder_9',['gemHolder',['../class_three_in_row.html#a3e595ec4b7217c9eab3537445f5490d2',1,'ThreeInRow']]],
+  ['generaterandom_10',['GenerateRandom',['../class_ethereal_flow.html#afa648ffb1b31e8ba32d576b1b9973926',1,'EtherealFlow']]],
+  ['getdonationeventcode_11',['GetDonationEventCode',['../class_event_manager.html#a442810d34754372db123d2201f17b34e',1,'EventManager']]],
+  ['givenewshardseventcode_12',['GiveNewShardsEventCode',['../class_event_manager.html#a25057d0761bafb17b3c40f2e1361cf54',1,'EventManager']]],
+  ['gradepref_13',['gradePref',['../class_grading.html#a6a19485f58f3ac1eceae43f5094fb7dd',1,'Grading']]],
+  ['grades_14',['grades',['../class_grading.html#a256caacbd6a8b05d3a0fa406d0efe33f',1,'Grading']]],
+  ['grading_15',['grading',['../class_event_manager.html#ad7099594906a8846c5ed71e152461c40',1,'EventManager']]],
+  ['gradingchangebuttons_16',['gradingChangeButtons',['../class_grade.html#a7d4036f56d46acc5297a26fdc7ff0683',1,'Grade']]],
+  ['grid_17',['grid',['../class_three_in_row.html#a8a1b9dbec45eed1334744b65232cc82e',1,'ThreeInRow']]],
+  ['grouporder_18',['groupOrder',['../class_castle.html#a948c47923659e11707cf82d29f043dca',1,'Castle']]]
+];

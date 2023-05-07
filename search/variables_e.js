@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['nestedsealscount_0',['nestedSealsCount',['../class_hint.html#ac51ae79a6da317333cb6c5bdd1242993',1,'Hint']]],
+  ['nickname_1',['nickname',['../class_adept.html#ae159ce6dc36e091cf1aed96e27fbd790',1,'Adept.nickname()'],['../class_magister.html#a4d989ec6120dcc99f0fd60129a38aff9',1,'Magister.nickname()'],['../class_castle_list_item.html#ac7706fbd5dec272f63ddf1d41788b1d9',1,'CastleListItem.nickname()']]],
+  ['nicknameinput_2',['nicknameInput',['../class_waiting_room.html#a1aa6d15893579696c8694076e6f01e8e',1,'WaitingRoom']]],
+  ['nodestoclose_3',['nodesToClose',['../class_initializing_scene.html#ab29d98c9193f47ef70382e280a70db50',1,'InitializingScene.nodesToClose()'],['../class_tutorial.html#a50a79cc323d98c700a8b22773f7e4d0e',1,'Tutorial.nodesToClose()']]],
+  ['nodestoopen_4',['nodesToOpen',['../class_grading.html#a91f0f1dffec6df6541d132ea09bbca0d',1,'Grading.nodesToOpen()'],['../class_initializing_scene.html#aa871418b8b91415d9069ff4fb9597d26',1,'InitializingScene.nodesToOpen()']]],
+  ['nothidden_5',['notHidden',['../class_technology.html#a8c40be36cc1f162013e2b0e0bc084e46',1,'Technology']]],
+  ['numberimage_6',['numberImage',['../class_grade.html#af627fdadc49a72165479fbe169561e69',1,'Grade']]],
+  ['numberinitialshards_7',['NumberInitialShards',['../class_first_stage.html#ae3106fffafd6b3d813fbbf4af3666ba6',1,'FirstStage']]],
+  ['numbernewshards_8',['NumberNewShards',['../class_first_stage.html#a7249d903ea887cf92e9ac992442df886',1,'FirstStage']]],
+  ['numberofreadyplayerstext_9',['numberOfReadyPlayersText',['../class_end_game.html#aa58b52f4a0341dddd790c40360dd0a4b',1,'EndGame.numberOfReadyPlayersText()'],['../class_results_window.html#a44beae6d282fd8cb66d9b8051630c51d',1,'ResultsWindow.numberOfReadyPlayersText()']]],
+  ['numberplayerstext_10',['numberPlayersText',['../class_lobby_list_item.html#a50410c11ba23aa1963030905bef3dc87',1,'LobbyListItem']]],
+  ['numberroundstext_11',['numberRoundsText',['../class_first_stage.html#ab00b841975f269faea3f79bb5f3b3017',1,'FirstStage']]],
+  ['numbers_12',['numbers',['../class_grade.html#a887ba2d05f576b122d11a37fdbaa1dbc',1,'Grade']]],
+  ['numbertransmittedshards_13',['numberTransmittedShards',['../class_drop_place.html#a8425ae88d7f0197639e1a214df2b80de',1,'DropPlace']]],
+  ['numbervalue_14',['numberValue',['../class_grade.html#aa760ea303997143f9b06c8eceeeb7b7b',1,'Grade']]],
+  ['numcolbs_15',['numColbs',['../class_alchemy.html#adfe8d46511608fb741ddfd5e88ff7417',1,'Alchemy']]],
+  ['numcolors_16',['numColors',['../class_alchemy.html#a32dacb0e477b0b9bbc2aada72919456c',1,'Alchemy']]],
+  ['numempty_17',['numEmpty',['../class_alchemy.html#a3c8aee72f3f223cb853c0619f354927d',1,'Alchemy']]],
+  ['numrows_18',['numRows',['../class_alchemy.html#adf710ffce72ff0d62178544926bb5224',1,'Alchemy']]]
+];

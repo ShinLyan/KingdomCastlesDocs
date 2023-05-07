@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['observer_5fsprites_0',['Observer_Sprites',['../class_lobby_list_item.html#ada56c5f3c34f0b602eb01a556202552b',1,'LobbyListItem']]],
+  ['observerbutton_1',['observerButton',['../class_waiting_room.html#ab41d282b018b47b5eeadb0f09db6a8ec',1,'WaitingRoom']]],
+  ['observerlisttext_2',['observerListText',['../class_waiting_room.html#a3f5e0957096c4464b6240e40765c979d',1,'WaitingRoom']]],
+  ['observerplayer_3',['observerPlayer',['../class_waiting_room.html#aed335c6902b884a8eca78108960c4a4f',1,'WaitingRoom']]],
+  ['observersprites_4',['observerSprites',['../class_waiting_room.html#acec221bc4e08039a9869b80ede3c2acc',1,'WaitingRoom']]],
+  ['observerstoggle_5',['observersToggle',['../class_lobby_manager.html#a71ee188416f27f580906a7c0287ef3b6',1,'LobbyManager']]],
+  ['offersnumbertodonate_6',['offersNumberToDonate',['../class_first_stage.html#a86bf8d0b23c413e562ade1f1df624a5f',1,'FirstStage']]],
+  ['offset_7',['offset',['../class_shard_movement.html#aea1999f7eb32a52f6f11ef2f183fab37',1,'ShardMovement']]],
+  ['offsetrotation_8',['OffsetRotation',['../class_item.html#a67359a728d9e5165875946560c3f8f6d',1,'Item']]],
+  ['onclickhinteventcode_9',['OnClickHintEventCode',['../class_crystal_altar.html#aa6f7d41b00aabc8b595b08faf955588b',1,'CrystalAltar.OnClickHintEventCode()'],['../class_hint.html#aab503e83d4f99e66be4182d47b735e30',1,'Hint.OnClickHintEventCode()']]],
+  ['openarrows_10',['openArrows',['../class_tech_tree.html#a89a0e1708bf8f106a04c0e6672483c56',1,'TechTree']]],
+  ['openexchangewindoweventcode_11',['OpenExchangeWindowEventCode',['../class_event_manager.html#a9095711a384a9563417e620e144e24c9',1,'EventManager']]],
+  ['opentime_12',['openTime',['../class_animation_canvas.html#a4dc26837d2a65fd29b58397232a5bfce',1,'AnimationCanvas']]],
+  ['opponentarrow_13',['opponentArrow',['../class_first_stage.html#a764c34e798ddbff65dfb61f73ff21687',1,'FirstStage.opponentArrow()'],['../class_tutorial.html#a621f8319d1b444005c608073cebf49cf',1,'Tutorial.opponentArrow()']]],
+  ['opponentcastleskin_14',['opponentCastleSkin',['../class_first_stage.html#a348e493a016dbf221176666d4f319101',1,'FirstStage']]],
+  ['opponentfield_15',['opponentField',['../class_first_stage.html#a6cd9ff16964644aacfc71ee0a5396cba',1,'FirstStage.opponentField()'],['../class_tutorial.html#ad33d6ac189d90957d01936c102d2372c',1,'Tutorial.opponentField()']]],
+  ['opponentfinishturn_16',['opponentFinishTurn',['../class_first_stage.html#ab9921e74bb485c45c02bced5610ae8a5',1,'FirstStage']]],
+  ['opponenthand_17',['opponentHand',['../class_first_stage.html#a4ae765522455dd10974a36e4d83a605c',1,'FirstStage.opponentHand()'],['../class_tutorial.html#a5b885a4f223a073292821683af271d15',1,'Tutorial.opponentHand()']]],
+  ['opponentnicknamestext_18',['opponentNicknamesText',['../class_first_stage.html#a99971d0570c5887353b172ef88eb6a18',1,'FirstStage']]],
+  ['outercircle_19',['outerCircle',['../class_crystal_altar_animation.html#a2cc3baad619ed8bc931e2525f43ff41e',1,'CrystalAltarAnimation']]]
+];

@@ -1,0 +1,28 @@
+var class_drag_drop =
+[
+    [ "FadeColor", "class_drag_drop.html#a55c7e64a9718701b61e5983e1c151674", null ],
+    [ "InitialisePositions", "class_drag_drop.html#a02d65132b1529fe2efcef300e2b6f67f", null ],
+    [ "IsOrientedRight", "class_drag_drop.html#a880ec55ee551009b172ebee29268c102", null ],
+    [ "OnBeginDrag", "class_drag_drop.html#a8c24e79ebe64620d1868ec693b3d9ef8", null ],
+    [ "OnDrag", "class_drag_drop.html#adc358b536e86c04976357480d0dceb99", null ],
+    [ "OnEndDrag", "class_drag_drop.html#a52b3dcbdfd7de54835d0980c0f8f20ff", null ],
+    [ "OnPointerDown", "class_drag_drop.html#a9458587cb041239270df1725ca75bdde", null ],
+    [ "OnPointerUp", "class_drag_drop.html#af850834ba5aa619c396d6aa087dfebb8", null ],
+    [ "Rotate", "class_drag_drop.html#a03a635515b14afff2f428318d376b9f0", null ],
+    [ "Start", "class_drag_drop.html#a3df33cc6f5dc96738d217965969cf197", null ],
+    [ "WrongPositionResponse", "class_drag_drop.html#acce13f4d80cf6c28e78232431a52c17f", null ],
+    [ "allSnaps", "class_drag_drop.html#aa1cf7c2047b73279eab1df98cf0a1172", null ],
+    [ "canvas", "class_drag_drop.html#aa6bb6c6220cc8c1d884f7cf532ef33cb", null ],
+    [ "canvasGroup", "class_drag_drop.html#accdfdf11f377bf26fd6167951ab16325", null ],
+    [ "correspondingSnap", "class_drag_drop.html#ad82f54a2d0811278b90e072bae27055e", null ],
+    [ "correspondingSnapIndex", "class_drag_drop.html#ab479f847e15db5d111cc0d6fd55dfab7", null ],
+    [ "dragDropManager", "class_drag_drop.html#a7770ef03d938ecf836c54bddb2e76a83", null ],
+    [ "id", "class_drag_drop.html#a4f575c58c0e54eccaa093245edb9d251", null ],
+    [ "initialPosition", "class_drag_drop.html#a9c57f940f90b884b73042a3c0b495624", null ],
+    [ "pieceRotationTime", "class_drag_drop.html#a222908b9fda9283d058d0d0fbf997ef3", null ],
+    [ "rectTransform", "class_drag_drop.html#a92959df2c67b457781d79661ad6942e4", null ],
+    [ "CanRotate", "class_drag_drop.html#a1e6a29d9779ab981c37d5ce21bc3ffb8", null ],
+    [ "Id", "class_drag_drop.html#a6f1908e36030981277a5971ba15315f0", null ],
+    [ "IsDragged", "class_drag_drop.html#ad441eb1da9a964782b08aab54ecee88a", null ],
+    [ "IsLocked", "class_drag_drop.html#a2ce081fc2893c263a045222f656faec6", null ]
+];

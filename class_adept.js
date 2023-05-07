@@ -1,0 +1,25 @@
+var class_adept =
+[
+    [ "ChangeOpponentVolume", "class_adept.html#a479423c43d512054645c5ceaf5a3b557", null ],
+    [ "DecreaseScale", "class_adept.html#abeb49de9ac22887e38f2214070efd448", null ],
+    [ "IncreaseScale", "class_adept.html#aaf6ec9e6a4a97c68903e005507444df1", null ],
+    [ "ResetScale", "class_adept.html#a732abc2c22504c8a5aa892ca3350510a", null ],
+    [ "SetInfo", "class_adept.html#aabe9ee9e8f348d646140e1b80dc5c467", null ],
+    [ "SetSets", "class_adept.html#a44c5542d2a1450b8585ac68f01c9f712", null ],
+    [ "SwitchScaleText", "class_adept.html#a83e8f6d5b7baebf1eced763c20cdcd6e", null ],
+    [ "SwitchSets", "class_adept.html#ab7850cfe19d6794c125eecaa23ab32d2", null ],
+    [ "UpdateHand", "class_adept.html#aac396d7bc6db5968d789fc6231b7ca0e", null ],
+    [ "adeptCastle", "class_adept.html#acc3067bd3f89fc2a479bbe75a93cbf09", null ],
+    [ "firstSet", "class_adept.html#ad3aa096c9526c2e25e9327c111a72e42", null ],
+    [ "hand", "class_adept.html#aae942cca2bb8e109d92b016780ced704", null ],
+    [ "nickname", "class_adept.html#ae159ce6dc36e091cf1aed96e27fbd790", null ],
+    [ "scale", "class_adept.html#adf3f4428b756b9fe1d9fef76d3cf90fb", null ],
+    [ "scaleValue", "class_adept.html#ace7404b4b39d9d2ab2958970512d3179", null ],
+    [ "scaleValueText", "class_adept.html#ace4bffc7ae7fc046462cf0147b75d69b", null ],
+    [ "secondSet", "class_adept.html#abf05a7cbf3d4e1842d95894bb266c8e4", null ],
+    [ "sets", "class_adept.html#ac2dd40f433a6c4edbe44dd9f72329618", null ],
+    [ "skin", "class_adept.html#a3f685f2d38364258924809274a61e2d4", null ],
+    [ "volumeSlider", "class_adept.html#ab02ba570dd6b90be4972be2256fc7c17", null ],
+    [ "Nickname", "class_adept.html#a5256b14bd8a9afa126c039baad701416", null ],
+    [ "ScaleValue", "class_adept.html#a207d7b559d1df7cca1778a07dde982dc", null ]
+];
